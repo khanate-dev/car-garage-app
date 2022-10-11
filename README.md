@@ -1,7 +1,9 @@
 # Car Garage Mobile App
+
 React Native Application With Expo Managed Workflow
 
 ## Technologies
+
 - React
 - React Native (Expo Managed Workflow)
 - Typescript
@@ -12,6 +14,7 @@ React Native Application With Expo Managed Workflow
 ---
 
 ## Scripts
+
 Start: `yarn start`
 
 Start (Android): `yarn android`
